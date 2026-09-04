@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+_build/
+build/
+dist/
+wheels/
+*.egg-info
+
+# System files
+.DS_Store
+.vscode/
+
+# Added
+.venv/
+_assets/
+RUNBOOK/
